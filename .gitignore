@@ -1,0 +1,3 @@
+# 構成管理対象外ファイル名を記載する
+.clasp.json
+appsscript.json

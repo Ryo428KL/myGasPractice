@@ -1,0 +1,5 @@
+# clasp push でドライブにpushしたくないファイルを記述
+.claspignore
+.gitignore
+READEME.md
+package.json
